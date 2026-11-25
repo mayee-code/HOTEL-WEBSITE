@@ -1,0 +1,9 @@
+{
+  "name": "Sadguru Hotel — Pure Veg",
+  "short_name": "Sadguru Hotel",
+  "description": "Pure Veg AC Family Restaurant in Juinagar, Navi Mumbai. Interactive thali, 2026 menu, timings and free home delivery.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fbf5e8",
+  "theme_color": "#0d2f21"
+}
